@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @sakshi-e-glitch
+- 👀 I’m interested in exploring new things and learning news skills in whatever way possible...
+- 🌱 I’m currently learning web development and exploring python as a field of development ...
+- 📫 How to reach me ...
+
+<!---
+sakshi-e-glitch/sakshi-e-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
